@@ -66,7 +66,8 @@ plain[length] = '\0';
 }
 ```
 ## OUTPUT:
-<img width="1692" height="865" alt="image" src="https://github.com/user-attachments/assets/3d0608cf-a180-4fca-83c8-15252720b81e" />
+<img width="1635" height="620" alt="image" src="https://github.com/user-attachments/assets/10f66261-44ed-4097-a311-87074eac094f" />
+
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
